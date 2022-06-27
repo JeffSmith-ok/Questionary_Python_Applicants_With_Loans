@@ -1,0 +1,220 @@
+) 
+jmstr@LAPTOP-LIQ7NG8O MINGW64 ~/onedrive/desktop/fintech_workspace/module_2
+$ history
+    1  github login
+    2  git
+    3  pwd
+    4  cd desktop
+    5  ls -a
+    6  cd ..
+    7  cd desktop
+    8  ls -a
+    9  cd jmstr
+   10  ls -a
+   11  cd onedrive
+   12  ls -a
+   13  cd desktop
+   14  cd project1
+   15  git
+   16  git add
+   17  ls -a
+   18  cd learningr
+   19  git
+   20  git add -a
+   21  git add -A
+   22  git commit -m "second try"
+   23  git push
+   24  git commit -m "second try"
+   25  git push
+   26  pwd
+   27  cd onedrive
+   28  cd project1
+   29  ls -a
+   30  cd desktop
+   31  cd project1
+   32  ls -a
+   33  cd onedrive
+   34  cd desktop
+   35  ls -a
+   36  cd project1
+   37  git clone
+   38  pwd
+   39  ls -a
+   40  cd onedrive
+   41  cd desktop/Project1/
+   42  cd Math_ML_Python/
+   43  git add -A
+   44  git commit -m second attempt
+   45  git commit -m "second attempt"
+   46  git push
+   47  cd ..
+   48  git clone https://github.com/businessanalytics-lse/Intro_PHP.git
+   49  cd Intro_PHP/
+   50  git add -A
+   51  git commit -m first commit
+   52  git commit -m "first commit"
+   53  git push
+   54  cd onedrive
+   55  cd documents
+   56  cd ..
+   57  cd desktop
+   58  cd project1
+   59  git clone https://github.com/businessanalytics-lse/laravel.git
+   60  cd ..
+   61  cd ..
+   62  mongod
+   63  cd Program
+   64  ls
+   65  cd program files
+   66  cd programfiles
+   67  cd 'program files'
+   68  ls
+   69  cd mongodb
+   70  ls
+   71  ls -a
+   72  cd server
+   73  ls
+   74  cd 4.4
+   75  ls
+   76  cd data
+   77  mongod
+   78  mongo
+   79  cd ..
+   80  cd bin
+   81  mongo
+   82  mongod
+   83  mongo
+   84  cd ..
+   85  ls -al
+   86  mkdir .ssh
+   87  sudo mkdir .ssh
+   88  cd documents
+   89  cd ..
+   90  heroku --version
+   91  heroku git:clone -a businessanalytics        
+   92  cd documents
+   93  cd projects
+   94  ls
+   95  heroku git:clone -a businessanalytics        
+   96  heroku git:clone -a businessanalytics        
+   97  cd documents
+   98  cd projects
+   99  npx create-react-app portfolio
+  100  cd portfolio
+  101  code .
+  102  npm start
+  103  sanity login
+  104  sanity init
+  105  cd studio
+  106  sanity start
+  107  cd documents
+  108  cd projects
+  109  npx create-react-app portfolio
+  110  cd portfolio
+  111  code .
+  112  npm start
+  113  cd documents
+  114  cd projects
+  115  npm install -g react
+  116  cd documents
+  117  cd projects
+  118  npm install --global @sanity/cli && sanity init
+  119  npm install --global @sanity/cli
+  120  sanity init
+  121  cd documents
+  122  cd projects
+  123  sanity init
+  124  ls -al ~/.ssh
+  125  ssh-keygen -t rsa -b 4096 -C jmstranslate@gmail.com
+  126  eval "$(ssh-agent -s)"
+  127  ssh-add ~/.ssh/id_rsa
+  128  clip < ~/.ssh/id_rsa.pub
+  129  ssh -T git@github.com
+  130  clip < ~/.ssh/id_rsa.pub
+  131  ssh -T git@github.com
+  132  ssh -T git@github.com
+  133  ls -al ~/.ssh
+  134  ls -al ~/.ssh
+  135  ssh-keygen -t rsa -b 4096 -C "jmstranslate@gmail.com"
+  136  eval "$(ssh-agent -s)"
+  137  ssh-add ~/.ssh/id_rsa
+  138  clip < ~/.ssh/id_rsa.pub
+  139  ssh -T git@github.com
+  140  ssh -T git@github.com
+  141  ls -al ~/.ssh
+  142  conda activate dev
+  143  CALL conda.bat activate'
+  144  conda activate dev
+  145  asdfa
+  146  conda activate dev
+  147  conda activate
+  148  conda init --help
+  149  conda --version
+  150  conda activate dev
+  151  conda init dev
+  152  conda init bash
+  153  conda activate dev
+  154  conda init bash
+  155  python -m ipykernel install --user --name dev
+  156  conda install -c conda-forge nodejs
+  157  conda activate dev
+  158  python -m ipykernel install --user --name dev
+  159  python -m ipykernel install --user --name dev
+  160  conda init bash
+  161  python -m ipykernel install --user --name dev
+  162  conda activate dev
+  163  conda install -c conda-forge nodejs
+  164  conda activate dev
+  165  jupyter_lab
+  166  jupyter lab
+  167  C:/Users/jmstr/anaconda3/Scripts/activate    
+  168  conda activate dev
+  169  cd ..
+  170  cd module_2_challenge
+  171  cd module_2
+  172  cd module_2_challenge
+  173  pip install python=3.7.3
+  174  pip install python 3.7.3
+  175  python --version
+  176  pip install python 3.7.13
+  177  pip install python
+  178  pip install fire
+  179  clear
+  180  python app.py
+  181  git add -A
+  182  git commit -m "updated readme with the installation and technologies section"
+  183  git push
+  184  git add -A
+  185  git commit -m "added the screenshot image and the return spaces missing"
+  186  git push
+  187  git add .
+  188  git commit "updated the readme file with respecct to the usage section"
+  189  git add .
+  190  git commit -m "updated the readme file with respect to the usage section explanation"
+  191  python app.py
+  192  git push
+  193  git add -A
+  194  git commit -m "fixed a sys.exit issue"       
+  195  git push
+  196  git add .
+  197  git commit -m "fixed the return space in the readme file"
+  198  git push
+  199  git add .
+  200  git commit -m "fixed the image provided in the usage section among other typos"
+  201  git push
+  202  git add =A
+  203  git Add -A
+  204  git add -A
+  205  git add .
+  206  git commit -m "language refinements in the readme.md file"
+  207  git push
+  208  history
+  209  cd ..
+  210  history
+  211  cd module_2_challenge
+  212  cd ..
+  213  cd module_1_challenge
+  214  terminal_history.txt
+  215  history
+  216  clear
+  217  history
