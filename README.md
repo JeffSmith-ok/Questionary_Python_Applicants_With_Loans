@@ -49,7 +49,7 @@ The user can drag the daily_rate_sheet.csv in the images folder and paste it in 
 
 At the end of the program, if there are any qualifying loans, the user will be requested to add the file path to save the file. The qualifying_loans.csv is provided as an example.
 
-## ![Screenshot of the app.py and the gitbash terminal](images/Screenshot_CM2.jpeg)
+## ![Screenshot of the app.py and the gitbash terminal](data/Screenshot_CM2.jpeg)
 
 ---
 
