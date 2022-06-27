@@ -127,8 +127,7 @@ def save_qualifying_loans(qualifying_loans):
         output_path = questionary.text(
             "What is the file path to which you want to save the file i.e. qualifying_loans.csv").ask()
     else:
-        print("As no file path was provided, exiting")
-        sys.exit()
+        sys.exit("As no file path was provided, exiting the program")
 
     with open(output_path, 'w', newline='') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=",")
