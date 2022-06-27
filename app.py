@@ -103,6 +103,9 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
         loan_to_value_ratio, bank_data_filtered)
 
     print(f"Found {len(bank_data_filtered)} qualifying loans")
+    if len(bank_data_filtered) == 0:
+        print("I am sorry, no qualifying loans were found, so we are exiting")
+        sys.exit()
 
     return bank_data_filtered
 
@@ -118,14 +121,13 @@ def save_qualifying_loans(qualifying_loans):
     header = ['Lender', 'Max Loan Amount', 'Max LTV',
               'Max DTI', 'Min Credit Score', 'Interest Rate']
     print(qualifying_loans)
-
     answer = questionary.confirm(
         "Would like to save a copy of the qualified loans as a csv?").ask()
     if answer == True:
         output_path = questionary.text(
             "What is the file path to which you want to save the file i.e. qualifying_loans.csv").ask()
     else:
-        print("bye")
+        print("As no file path was provided, exiting")
         sys.exit()
 
     with open(output_path, 'w', newline='') as csvfile:
