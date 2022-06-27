@@ -1,6 +1,6 @@
 # Second Challenge Project at Columbia Engineering Fintech Program
 
-This is a command line application using both fire and questionary to match applicants with the qualifying loans.
+This is a command line application using python with the fire and questionary libraries to match applicants with the qualifying loans.
 
 Firstly, the application will ask the user to provide the file to the latest banking data.
 
