@@ -19,17 +19,17 @@ Thirdly, if there are qualifying loans, the user will be asked to provide a file
 
 The technology required to run the application are the following:
 
-Python (developed using 3.7.13
-Fire
+Python (developed using 3.7.13 </br>
+Fire </br>
 Questionary
 
 ---
 
 ## Installation Guide
 
-install python
-pip install fire
-pip install questionary
+install python </br>
+pip install fire </br>
+pip install questionary </br>
 
 Git clone the repo, and run it, pursuant to the following clone address:
 
@@ -45,7 +45,7 @@ python app.py
 
 This section should include screenshots, code blocks, or animations explaining how to use your project.
 
-## ![Screenshot of the app.py and the gitbash terminal](images/Screenshot_Master.jpg)
+## ![Screenshot of the app.py and the gitbash terminal](images/Screenshot_CM2.jpeg)
 
 ---
 
