@@ -17,7 +17,7 @@ Thirdly, if there are qualifying loans, the user will be asked to provide a file
 
 ## Technologies
 
-The technology required to run the application are the following:
+The technology required to run the application is the following:
 
 Python (developed using 3.7.13 </br>
 Fire </br>
@@ -45,11 +45,11 @@ python app.py
 
 The following images shows the `python app.py` command being called and the program beginning by requesting the file path to a rate-sheet (.csv).
 
-The user can drag the daily_rate_sheet.csv in the images folder and paste it in the terminal.
+The user can drag the daily_rate_sheet.csv in the data folder and paste it in the terminal.
 
 At the end of the program, if there are any qualifying loans, the user will be requested to add the file path to save the file. The qualifying_loans.csv is provided as an example.
 
-## ![Screenshot of the app.py and the gitbash terminal](data/Screenshot_CM2.jpeg)
+## ![Screenshot of the app.py and the gitbash terminal](images/Screenshot_CM2.jpeg)
 
 ---
 
@@ -59,7 +59,7 @@ This is the second of the individual learning challenges.
 
 My contact information is:
 
-Name: Jeffrey M. Smith
+Name: Jeffrey M. Smith </br>
 Linkedin: https://www.linkedin.com/in/jeffsmith77/ </br>
 Personal email: jmstranslate@gmail.com </br>
 Phone: 332 238 5209
