@@ -43,7 +43,11 @@ python app.py
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+The following images shows the `python app.py` command being called and the program beginning by requesting the file path to a rate-sheet (.csv).
+
+The user can drag the daily_rate_sheet.csv in the images folder and paste it in the terminal.
+
+At the end of the program, if there are any qualifying loans, the user will be requested to add the file path to save the file. The qualifying_loans.csv is provided as an example.
 
 ## ![Screenshot of the app.py and the gitbash terminal](images/Screenshot_CM2.jpeg)
 
@@ -51,10 +55,11 @@ This section should include screenshots, code blocks, or animations explaining h
 
 ## Contributors
 
-This is the first of the individual learning challenges.
+This is the second of the individual learning challenges.
 
 My contact information is:
 
+Name: Jeffrey M. Smith
 Linkedin: https://www.linkedin.com/in/jeffsmith77/ </br>
 Personal email: jmstranslate@gmail.com </br>
 Phone: 332 238 5209
