@@ -1,151 +1,3 @@
-  1  github login
-    2  git
-    3  pwd
-    4  cd desktop
-    5  ls -a
-    6  cd ..
-    7  cd desktop
-    8  ls -a
-    9  cd jmstr
-   10  ls -a
-   11  cd onedrive
-   12  ls -a
-   13  cd desktop
-   14  cd project1
-   15  git
-   16  git add
-   17  ls -a
-   18  cd learningr
-   19  git
-   20  git add -a
-   21  git add -A
-   22  git commit -m "second try"
-   23  git push
-   24  git commit -m "second try"
-   25  git push
-   26  pwd
-   27  cd onedrive
-   28  cd project1
-   29  ls -a
-   30  cd desktop
-   31  cd project1
-   32  ls -a
-   33  cd onedrive
-   34  cd desktop
-   35  ls -a
-   36  cd project1
-   37  git clone
-   38  pwd
-   39  ls -a
-   40  cd onedrive
-   41  cd desktop/Project1/
-   42  cd Math_ML_Python/
-   43  git add -A
-   44  git commit -m second attempt
-   45  git commit -m "second attempt"       
-   46  git push
-   47  cd ..
-   48  git clone https://github.com/businessanalytics-lse/Intro_PHP.git
-   49  cd Intro_PHP/
-   50  git add -A
-   51  git commit -m first commit
-   52  git commit -m "first commit"
-   53  git push
-   54  cd onedrive
-   55  cd documents
-   56  cd ..
-   57  cd desktop
-   58  cd project1
-   59  git clone https://github.com/businessanalytics-lse/laravel.git
-   60  cd ..
-   61  cd ..
-   62  mongod
-   63  cd Program
-   64  ls
-   65  cd program files
-   66  cd programfiles
-   67  cd 'program files'
-   68  ls
-   69  cd mongodb
-   70  ls
-   71  ls -a
-   72  cd server
-   73  ls
-   74  cd 4.4
-   75  ls
-   76  cd data
-   77  mongod
-   78  mongo
-   79  cd ..
-   80  cd bin
-   81  mongo
-   82  mongod
-   83  mongo
-   84  cd ..
-   85  ls -al
-   86  mkdir .ssh
-   87  sudo mkdir .ssh
-   88  cd documents
-   89  cd ..
-   90  heroku --version
-   91  heroku git:clone -a businessanalytics
-   92  cd documents
-   93  cd projects
-   94  ls
-   95  heroku git:clone -a businessanalytics
-   96  heroku git:clone -a businessanalytics
-   97  cd documents
-   98  cd projects
-   99  npx create-react-app portfolio       
-  100  cd portfolio
-  101  code .
-  102  npm start
-  103  sanity login
-  104  sanity init
-  105  cd studio
-  106  sanity start
-  107  cd documents
-  108  cd projects
-  109  npx create-react-app portfolio       
-  110  cd portfolio
-  111  code .
-  112  npm start
-  113  cd documents
-  114  cd projects
-  115  npm install -g react
-  116  cd documents
-  117  cd projects
-  118  npm install --global @sanity/cli && sanity init
-  119  npm install --global @sanity/cli
-  120  sanity init
-  121  cd documents
-  122  cd projects
-  123  sanity init
-  124  ls -al ~/.ssh
-  125  ssh-keygen -t rsa -b 4096 -C jmstranslate@gmail.com
-  126  eval "$(ssh-agent -s)"
-  127  ssh-add ~/.ssh/id_rsa
-  128  clip < ~/.ssh/id_rsa.pub
-  129  ssh -T git@github.com
-  130  clip < ~/.ssh/id_rsa.pub
-  131  ssh -T git@github.com
-  132  ssh -T git@github.com
-  133  ls -al ~/.ssh
-  134  ls -al ~/.ssh
-  135  ssh-keygen -t rsa -b 4096 -C "jmstranslate@gmail.com"
-  136  eval "$(ssh-agent -s)"
-  137  ssh-add ~/.ssh/id_rsa
-  138  clip < ~/.ssh/id_rsa.pub
-  139  ssh -T git@github.com
-  140  ssh -T git@github.com
-  141  ls -al ~/.ssh
-  142  conda activate dev
-  143  CALL conda.bat activate'
-  144  conda activate dev
-  145  asdfa
-  146  conda activate dev
-  147  conda activate
-  148  conda init --help
   149  conda --version
   150  conda activate dev
   151  conda init dev
@@ -153,14 +5,14 @@
   153  conda activate dev
   154  conda init bash
   155  python -m ipykernel install --user --name dev
-  156  conda install -c conda-forge nodejs  
+  156  conda install -c conda-forge nodejs
   157  conda activate dev
   158  python -m ipykernel install --user --name dev
   159  python -m ipykernel install --user --name dev
   160  conda init bash
   161  python -m ipykernel install --user --name dev
   162  conda activate dev
-  163  conda install -c conda-forge nodejs  
+  163  conda install -c conda-forge nodejs
   164  conda activate dev
   165  jupyter_lab
   166  jupyter lab
@@ -179,3 +31,20 @@
   179  git add .
   180  git commit -m "changed the spacing on the readme file"
   181  git push
+  182  history.text
+  183  history.txt
+  184  terminal_history
+  185  terminal_history.txt
+  186  history
+  187  history
+  188  cd 
+  189  cd onedrive
+  190  cd desktop
+  191  cd fintech_workspace
+  192  cd module_2
+  193  ls
+  194  cd module_2_challenge
+  195  git add .
+  196  git commit -m "updating my history file"
+  197  git push
+  198  history 50 > terminal_history.txt
