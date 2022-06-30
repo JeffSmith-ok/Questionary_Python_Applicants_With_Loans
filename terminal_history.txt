@@ -1,7 +1,4 @@
-) 
-jmstr@LAPTOP-LIQ7NG8O MINGW64 ~/onedrive/desktop/fintech_workspace/module_2
-$ history
-    1  github login
+  1  github login
     2  git
     3  pwd
     4  cd desktop
@@ -45,7 +42,7 @@ $ history
    42  cd Math_ML_Python/
    43  git add -A
    44  git commit -m second attempt
-   45  git commit -m "second attempt"
+   45  git commit -m "second attempt"       
    46  git push
    47  cd ..
    48  git clone https://github.com/businessanalytics-lse/Intro_PHP.git
@@ -91,15 +88,15 @@ $ history
    88  cd documents
    89  cd ..
    90  heroku --version
-   91  heroku git:clone -a businessanalytics        
+   91  heroku git:clone -a businessanalytics
    92  cd documents
    93  cd projects
    94  ls
-   95  heroku git:clone -a businessanalytics        
-   96  heroku git:clone -a businessanalytics        
+   95  heroku git:clone -a businessanalytics
+   96  heroku git:clone -a businessanalytics
    97  cd documents
    98  cd projects
-   99  npx create-react-app portfolio
+   99  npx create-react-app portfolio       
   100  cd portfolio
   101  code .
   102  npm start
@@ -109,7 +106,7 @@ $ history
   106  sanity start
   107  cd documents
   108  cd projects
-  109  npx create-react-app portfolio
+  109  npx create-react-app portfolio       
   110  cd portfolio
   111  code .
   112  npm start
@@ -156,65 +153,29 @@ $ history
   153  conda activate dev
   154  conda init bash
   155  python -m ipykernel install --user --name dev
-  156  conda install -c conda-forge nodejs
+  156  conda install -c conda-forge nodejs  
   157  conda activate dev
   158  python -m ipykernel install --user --name dev
   159  python -m ipykernel install --user --name dev
   160  conda init bash
   161  python -m ipykernel install --user --name dev
   162  conda activate dev
-  163  conda install -c conda-forge nodejs
+  163  conda install -c conda-forge nodejs  
   164  conda activate dev
   165  jupyter_lab
   166  jupyter lab
-  167  C:/Users/jmstr/anaconda3/Scripts/activate    
-  168  conda activate dev
-  169  cd ..
-  170  cd module_2_challenge
-  171  cd module_2
-  172  cd module_2_challenge
-  173  pip install python=3.7.3
-  174  pip install python 3.7.3
-  175  python --version
-  176  pip install python 3.7.13
-  177  pip install python
-  178  pip install fire
-  179  clear
-  180  python app.py
-  181  git add -A
-  182  git commit -m "updated readme with the installation and technologies section"
-  183  git push
-  184  git add -A
-  185  git commit -m "added the screenshot image and the return spaces missing"
-  186  git push
-  187  git add .
-  188  git commit "updated the readme file with respecct to the usage section"
-  189  git add .
-  190  git commit -m "updated the readme file with respect to the usage section explanation"
-  191  python app.py
-  192  git push
-  193  git add -A
-  194  git commit -m "fixed a sys.exit issue"       
-  195  git push
-  196  git add .
-  197  git commit -m "fixed the return space in the readme file"
-  198  git push
-  199  git add .
-  200  git commit -m "fixed the image provided in the usage section among other typos"
-  201  git push
-  202  git add =A
-  203  git Add -A
-  204  git add -A
-  205  git add .
-  206  git commit -m "language refinements in the readme.md file"
-  207  git push
-  208  history
-  209  cd ..
-  210  history
-  211  cd module_2_challenge
-  212  cd ..
-  213  cd module_1_challenge
-  214  terminal_history.txt
-  215  history
-  216  clear
-  217  history
+  167  cd 01
+  168  ls
+  169  01-Bitcoin_Collections/
+  170  ls
+  171  cd 01-Bitcoin_Collections/
+  172  pip install history.txt
+  173  cd ..
+  174  cd ..
+  175  cd module_2
+  176  ls
+  177  cd module_2_challenge
+  178  conda activate dev
+  179  git add .
+  180  git commit -m "changed the spacing on the readme file"
+  181  git push
